@@ -4,14 +4,18 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    background-color: white
 
 }
-
+.map-display{
+    background-color: black;
+    
+}
 
 svg{
     width:100%;
     height:100%;
+    
 }
 
 svg path{
