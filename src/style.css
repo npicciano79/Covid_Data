@@ -84,10 +84,8 @@ svg path:hover{
     text-transform: uppercase;
     cursor: pointer;
     border: none;
-    border-radius: 10px;
-
 }
 .remove_countryBtn>button:hover{
-    background-color: lightcoral;
+    color: red;
     transform: scale(1.1);
 }
